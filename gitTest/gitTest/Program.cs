@@ -13,6 +13,7 @@ namespace gitTest
       int x = 1;
 
       String name = "ALD";
+      bool var = true;
     }
   }
 }
