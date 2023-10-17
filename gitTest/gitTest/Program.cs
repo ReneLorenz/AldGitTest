@@ -11,6 +11,8 @@ namespace gitTest
     static void Main(string[] args)
     {
       int x = 1;
+
+      String name = "ALD";
     }
   }
 }
